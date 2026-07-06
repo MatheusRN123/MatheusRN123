@@ -1,36 +1,87 @@
 ![banner](https://grandeporte.com.br/images/banner-curso-1.jpg)
 
+<h1 align="center">Olá 👋, sou o Matheus Ramos</h1>
 
-<h1 align="center">Olá 👋, Sou o Matheus Ramos</h1>
-<h3 align="center">Aqui você encontra projetos focados em Java e TypeScript</h3>
+<h3 align="center">
+Desenvolvedor Backend • Java • TypeScript
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusrn123&label=Profile%20views&color=0e75b6&style=flat" alt="matheusrn123" /> </p>
-
-- 🔭 Atualmente estou trabalhando com **Java e TypeScript**
-
-- 🌱 Atualmente estou estudando **Docker, Linux e Git**
-
-- 🤝 Procuro colaborar com [SGI](https://github.com/JoaoPOPaulino/SGI_ATI)
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/MatheusRN123](https://github.com/MatheusRN123)
-
-- 📫 Contato: **matheusnatividadetb@gmail.com**
-
-- 📄 Sobre mim: [www.linkedin.com/in/matheus-natividade](www.linkedin.com/in/matheus-natividade)
-
-- ⚡ Fato sobre mim: **Jogo FPS desde pequeno e continuo ruim**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matheusnatividade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusnatividade" height="30" width="40" /></a>
+<p align="center">
+Atualmente estudando Docker, Linux, Git e Arquitetura de Software.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=matheusrn123&label=Visualizações&color=0e75b6&style=flat"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusrn123&show_icons=true&theme=dark&locale=en&layout=compact" alt="matheusrn123" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusrn123&show_icons=true&theme=dark&locale=en" alt="matheusrn123" /></p>
+## 🚀 Sobre mim
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusrn123&theme=dark" alt="matheusrn123" /></p>
+- 🔭 Atualmente trabalhando com **Java** e **TypeScript**
+- 🌱 Estudando **Docker**, **Linux** e **Git**
+- 🤝 Colaborando no projeto [SGI](https://github.com/JoaoPOPaulino/SGI_ATI)
+- 💻 Confira meus projetos:  
+  https://github.com/MatheusRN123
+- 📫 **E-mail:** matheusnatividadetb@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/matheus-natividade
+- 🎮 Curiosidade: jogo FPS desde pequeno e **continuo ruim**
 
+---
+
+## 🌐 Contato
+
+<p align="center">
+<a href="https://www.linkedin.com/in/matheus-natividade">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+</p>
+
+---
+
+## 🛠 Tecnologias
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+
+</p>
+
+---
+
+## 📊 Estatísticas
+<p align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusRN123&show_icons=true&theme=tokyonight"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusRN123&layout=compact&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="700"
+    src="https://streak-stats.demolab.com?user=MatheusRN123&theme=tokyonight"
+  />
+</p>
+
+---
+
+## ⭐ Obrigado pela visita!
