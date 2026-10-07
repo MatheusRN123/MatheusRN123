@@ -3,11 +3,12 @@
 <h1 align="center">Olá 👋, sou o Matheus Ramos</h1>
 
 <h3 align="center">
-Desenvolvedor Backend • Java • TypeScript
+Desenvolvedor Backend • Java • TypeScript<br>
+DevOps • Kubernetes • Red Hat OpenShift
 </h3>
 
 <p align="center">
-Atualmente estudando Docker, Linux, Git e Arquitetura de Software.
+Atualmente fazendo o curso da RedHat sobre a ferramenta Red Hat OpenShift 
 </p>
 
 <p align="center">
@@ -18,14 +19,14 @@ Atualmente estudando Docker, Linux, Git e Arquitetura de Software.
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente trabalhando com **Java** e **TypeScript**
-- 🌱 Estudando **Docker**, **Linux** e **Git**
+- 🔭 Atualmente trabalhando com **Red Hat OpenShift** e **Docker**
+- 🌱 Estudando **Red Hat OpenShift**
 - 🤝 Colaborando no projeto [SGI](https://github.com/JoaoPOPaulino/SGI_ATI) e no [Asmosul](https://github.com/unitins-p2-asmosul)
 - 💻 Confira meus projetos:  
   https://github.com/MatheusRN123
 - 📫 **E-mail:** matheusnatividadetb@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/matheus-natividade
-- 🎮 Curiosidade: jogo FPS desde pequeno e **continuo ruim**
+- 🎮 Curiosidade: jogo FPS desde pequeno e **continuo ruim** 😂😂
 
 ---
 
@@ -50,6 +51,10 @@ Atualmente estudando Docker, Linux, Git e Arquitetura de Software.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhatopenshift/redhatopenshift-original.svg" width="45"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
 
