@@ -54,7 +54,7 @@ Atualmente fazendo o curso da RedHat sobre a ferramenta Red Hat OpenShift
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45"/>
 
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/openshift/openshift-original.svg" width="45"/>
+<img src="https://devicons.io/icons/openshift/openshift-original.svg" width="45"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
 
