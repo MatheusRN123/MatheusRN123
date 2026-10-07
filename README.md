@@ -54,7 +54,7 @@ Atualmente fazendo o curso da RedHat sobre a ferramenta Red Hat OpenShift
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhatopenshift/redhatopenshift-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openshift/openshift-original.svg" width="45"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
 
@@ -72,11 +72,11 @@ Atualmente fazendo o curso da RedHat sobre a ferramenta Red Hat OpenShift
 <p align="center">
   <img
     height="160"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusRN123&show_icons=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api?username=MatheusRN123&show_icons=true&theme=tokyonight"
   />
   <img
     height="160"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusRN123&layout=compact&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatheusRN123&layout=compact&theme=tokyonight"
   />
 </p>
 
