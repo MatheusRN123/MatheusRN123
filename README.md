@@ -20,7 +20,7 @@ Atualmente estudando Docker, Linux, Git e Arquitetura de Software.
 
 - 🔭 Atualmente trabalhando com **Java** e **TypeScript**
 - 🌱 Estudando **Docker**, **Linux** e **Git**
-- 🤝 Colaborando no projeto [SGI](https://github.com/JoaoPOPaulino/SGI_ATI)
+- 🤝 Colaborando no projeto [SGI](https://github.com/JoaoPOPaulino/SGI_ATI) e no [Asmosul](https://github.com/unitins-p2-asmosul)
 - 💻 Confira meus projetos:  
   https://github.com/MatheusRN123
 - 📫 **E-mail:** matheusnatividadetb@gmail.com
